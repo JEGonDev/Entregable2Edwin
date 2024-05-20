@@ -64,12 +64,89 @@ header {
     border-radius: 2rem;
 }
 
+.subtitle1 {
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    color: black;
+    margin-top: 3.5em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
+.information {
+    display: flex;
+    justify-content: space-between;
+    margin: 7rem;
+    margin-top: 3rem;
+}
 
+.container > img{
+    height: 8.5rem;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 7rem;
+    padding-right: 7rem;
+}
 
+.title-text > h3 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 0.5rem;
+}
 
+.title-text > p {
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: small;
+}
 
+.learn {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+    background-color: aquamarine;
+    margin-bottom: 5rem;
+}
 
+.web-information {
+    margin: 5rem;
+    align-content: center;
+}
+
+.web-information > h2 {
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 0.8rem;
+}
+
+.web-information > p {
+    font-size: medium;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-bottom: 3rem;
+}
+
+.web-information > a {
+    text-decoration: none;
+    color: white;
+    border: 1rem;
+    background-color: rgb(13, 13, 97);
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+.information-inside > img{
+    height: 15rem;
+    padding-left: 7.5rem;
+    align-content: center;
+    margin-bottom: 3rem;
+}
+
+.information-reliable > img {
+    height: 15rem;
+    margin-left: 5rem;
+    align-content: center;
+    margin-top: 2rem;
+}
 
 
 
