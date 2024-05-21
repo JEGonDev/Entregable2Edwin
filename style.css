@@ -148,6 +148,31 @@ header {
     margin-top: 2rem;
 }
 
+.get-plan {
+    margin-top: 3rem;
+    margin-bottom: 5rem;
+}
+
+.title-plan > h2{
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-bottom: 5rem;
+}
+
+.information-plan {
+    justify-content: space-around;
+    display: flex;
+}
+
+
+
+
+
+
+
+
+
 
 
 #backImage-contact {
@@ -160,6 +185,7 @@ header {
 .contact-backImage {
     height: 30rem;
 }
+
 
 footer {
 
